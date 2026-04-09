@@ -49,6 +49,3 @@ npx playwright test --headed
 Run test file:
 
 npx playwright test tests/app.sec.ts --headed
-
-
-
