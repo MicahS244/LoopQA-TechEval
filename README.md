@@ -1,4 +1,4 @@
-# Loop Technical Evaluation 
+# E2E Testing Project
 
 This project demonstrates an end-to-end test suite built with Playwright using Typescript and a data-driven testing approach.
 
